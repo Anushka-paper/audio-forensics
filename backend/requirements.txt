@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+SQLAlchemy
+python-multipart
+pydub
+SpeechRecognition
+googletrans==4.0.0-rc1
+scipy
+numpy
+python-dotenv
