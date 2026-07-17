@@ -1,8 +1,7 @@
 import os
 import sys
 
-# Add root folder to sys path to import ml_pipeline
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Removed sys.path.append since ml_pipeline is now inside backend
 
 from ml_pipeline.pipeline import process_file
 from database import SessionLocal
