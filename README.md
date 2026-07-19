@@ -1,6 +1,6 @@
-# 🕵️ Bharat Audio Forensics Toolkit (BAFT)
+# 🕵️ Voice Enhancement and Automated Report Generation for Audio Forensic Analysis
 
-**Bharat Audio Forensics Toolkit (BAFT)** is a full-stack, offline-first web application designed for forensic examiners and investigating officers. It provides an all-in-one dashboard to securely analyze, enhance, and transcribe evidentiary audio files while maintaining strict chain-of-custody protocols.
+**Voice Enhancement and Automated Report Generation for Audio Forensic Analysis** is a full-stack, offline-first web application designed for forensic examiners and investigating officers. It provides an all-in-one dashboard to securely analyze, enhance, and transcribe evidentiary audio files while maintaining strict chain-of-custody protocols.
 
 ## ✨ Key Features
 
